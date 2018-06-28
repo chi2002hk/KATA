@@ -1,1 +1,1 @@
-# KATA
+# KATA - admend version 2
